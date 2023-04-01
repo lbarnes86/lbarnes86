@@ -1,6 +1,6 @@
 
 <a href="https://github.com/lbarnes86/lbarnes86">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbarnes86&show=java,html,css,tex&title_color=57A6FF&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1116&border_color=57A6FF&langs_count=3" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbarnes86&show=java,html,css,tex&title_color=57A6FF&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1116&border_color=57A6FF&langs_count=3" />
 </a>
 
 
